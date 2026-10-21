@@ -16,13 +16,13 @@ Today, I work across Windows software, Android development, and the web under **
 
 <img align="right" src="./assets/brand/bpt.png" width="56" alt="Bari Plux Tool — shared logo for Windows and Android" />
 
-### Bari Plux Tool · Windows & Android
+### Bari Plux Tool
 
-**Windows / BPT 3** — A desktop application for PUBG Mobile players and emulator users. Graphics and control profiles sit alongside optimization, Game Mode, file management, backups, and emulator utilities. Recent additions include an **in-game performance overlay** and **Installed Files for emulators**.
+**Windows / BPT 3 · Released** — A desktop application for PUBG Mobile players and emulator users. Graphics and control profiles sit alongside optimization, Game Mode, file management, backups, and emulator utilities. Recent additions include an **in-game performance overlay** and **Installed Files for emulators**.
 
 The product also includes account and community features, cloud backup, diagnostics, themes, and updates, with **27 languages** and support for right-to-left interfaces. My work spans the application, its user experience, and the services around it.
 
-**Android / In development** — A mobile application planned around gaming tools, device and network insight, file management, and shared account features. The aim is to support both PC and mobile users, with a connection between the apps and planned remote PC / GameLoop management. Features depend on device support and permissions; no release date has been announced.
+**Android / Coming Soon** — A mobile application planned around gaming tools, device and network insight, file management, and shared account features. The aim is to support both PC and mobile users, with a connection between the apps and planned remote PC / GameLoop management. Features depend on device support and permissions; no release date has been announced.
 
 [Product overview →](https://github.com/Snow-Breaker/Bari-Plux-Tool)
 
@@ -32,23 +32,11 @@ I build and maintain the website that brings the software, guides, updates, vide
 
 [Website →](https://bariplux.com) · [Project overview →](https://github.com/Snow-Breaker/Bari-Plux-Web)
 
-## A decision that shaped the project
+## How I build
 
-On **31 July 2026**, I shared an early version of a redesigned WPF application with the developer / VIP group. The feedback was direct: the interface wasn't the right fit for the product or its identity.
+Community feedback has shaped BPT from its first graphics settings to a broader application. When an early redesign missed the mark, I chose to rewrite it with WinUI 3 and revisit the foundations. That version officially launched on **12 October 2026**.
 
-Rather than keep building on that direction, I chose to rewrite the application with **WinUI 3** and revisit its foundations. It was a substantial decision after the work already invested, but it created room to improve the interface, performance, and maintainability together.
-
-That experience shapes how I work: listen to the people using the product, reconsider a direction when the evidence calls for it, and test the experience beyond whether the code builds.
-
-## From a personal tool to a broader product
-
-| Stage | What changed |
-| :--- | :--- |
-| **Personal beginnings** | Graphics / FPS settings and GameLoop keymapping for what is now Custom View. |
-| **Community-led growth** | Requests led to DNS tools, PAK backups, more languages, optimization, and simpler workflows. |
-| **Summer 2026** | Work expanded into a redesigned desktop app with Game Mode and a file manager. |
-| **After the July preview** | A rewrite from WPF to WinUI 3, rethinking both the interface and the foundations. |
-| **Next chapter** | Develop BPT Android and bring the desktop and mobile experiences together. |
+[Read the story: from WPF to WinUI 3 →](https://github.com/Snow-Breaker/Bari-Plux-Tool/blob/main/docs/wpf-to-winui3.md)
 
 ## Technologies in my work
 

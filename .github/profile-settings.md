@@ -5,7 +5,7 @@
 - Website: https://bariplux.com
 - Bio:
 
-  Snow Breaker | Creator of Bari Plux. Building Bari Plux Tool for Windows, developing BPT Android, and connecting desktop, mobile & web.
+  Snow Breaker | Creator of Bari Plux. Building Bari Plux Tool for Windows, BPT Android coming soon. Desktop, mobile & web.
 
 ## Featured repositories
 
