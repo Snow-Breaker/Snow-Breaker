@@ -1,29 +1,37 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="BariPlux / Snow-Breaker — Build with purpose. Grow beyond limits. Tools, content, and a bigger vision." width="100%" />
+  <img src="./assets/hero.png" width="100%" alt="BariPlux / Snow-Breaker — Building the next chapter. Silver BPT emblem surrounded by blue ice and liquid chrome." />
 </p>
 
 <p align="center">
-  <a href="https://bariplux.com">Website</a> &nbsp; / &nbsp;
-  <a href="#the-work">The work</a> &nbsp; / &nbsp;
-  <a href="#whats-next">What's next</a> &nbsp; / &nbsp;
-  <a href="#find-me-online">Find me online</a>
+  <a href="https://bariplux.com"><b>EXPLORE BARIPLUX ↗</b></a> &nbsp; · &nbsp;
+  <a href="#the-ecosystem">THE ECOSYSTEM</a> &nbsp; · &nbsp;
+  <a href="#the-next-chapter">THE NEXT CHAPTER</a> &nbsp; · &nbsp;
+  <a href="#stay-connected">CONNECT</a>
 </p>
 
 <br />
 
-I'm **BariPlux**, also known as **Snow-Breaker** — the person behind **Bari Plux Tool (BPT)**. I'm building tools, creating content, and growing a community around the work.
-
-BPT is a starting point for a bigger vision: expand the project, bring it to Android, and build new, more ambitious projects beyond it. This profile is where that journey comes together.
+<p align="center">
+  <b>I'm BariPlux — known here as Snow-Breaker.</b><br />
+  The creator behind Bari Plux Tool. Building software, sharing what I learn,<br />
+  and bringing a bigger vision to life — one project at a time.
+</p>
 
 <br />
 
-## The work
+## The ecosystem
 
-<img src="./assets/project-showcase.svg" alt="Project showcase: Bari Plux Tool, planned BPT Android, and the BariPlux website and content." width="100%" />
+<a href="https://bariplux.com"><img src="./assets/pc-showcase.png" width="100%" alt="Bari Plux Tool 3 for Windows: PUBG Mobile and emulator graphics, controls, optimization, files, backups, and community. Latest additions: performance overlay and Installed Files." /></a>
 
-### BPT 3 · PC
+<p>
+  <a href="#the-next-chapter"><img src="./assets/android-card.png" width="49%" alt="BPT Android — planned and in development. Gaming tools, device insight, files, backup, cloud sync, and a PC connection." /></a>
+  <a href="https://bariplux.com"><img src="./assets/web-card.png" width="49%" alt="BariPlux.com — classic visual identity, Liquid Glass cards, website optimization, content, and community." /></a>
+</p>
 
-A Windows toolkit for **PUBG Mobile players and emulator users** — bringing graphics settings, performance tools, file management, and everyday utilities into one place.
+**BPT 3** brings graphics settings, performance tools, emulator utilities, and everyday workflows into one Windows toolkit. **BariPlux.com** is the home for the software, updates, videos, and community — recently refreshed with the classic background and Liquid Glass cards.
+
+<details>
+<summary><b>Inside BPT PC — explore the capabilities</b></summary>
 
 | Area | What it brings together |
 | :--- | :--- |
@@ -36,25 +44,20 @@ A Windows toolkit for **PUBG Mobile players and emulator users** — bringing gr
 
 Feature availability varies by emulator, hardware, and plan. Preset FPS targets depend on game and device support.
 
-**[Explore BPT on the website →](https://bariplux.com)**
+</details>
 
 <br />
 
-### BariPlux.com · The home of the ecosystem
+## The next chapter
 
-The website brings together the projects, updates, content, and community. Its latest refresh returns to the **classic BariPlux style and background**, paired with **Liquid Glass cards** and a focus on performance, optimization, and web standards.
+<img src="./assets/future.png" width="100%" alt="Future direction: evolve BPT, connect PC and Android, and build new, larger independent projects beyond BPT." />
 
-**[Visit the website →](https://bariplux.com)** &nbsp; · &nbsp; **[Watch on YouTube →](https://www.youtube.com/@BariPlux)**
+**BPT Android is planned as more than a companion.** We're working toward a mobile experience with gaming tools, device and network insight, file management, backups, and shared account and community features.
 
-<br />
+The bigger goal: **PC and mobile that work together**, including planned remote PC / GameLoop management through a companion PC agent. Beyond BPT, the ambition is to build new, larger projects with their own identities.
 
-## What's next
-
-<img src="./assets/roadmap.svg" alt="Future plans: expand BPT PC, build BPT Android, connect PC and mobile, and create larger independent projects." width="100%" />
-
-### BPT Android · Planned
-
-A mobile companion with its own Android-focused tools — designed around gaming, device insight, file management, and a connected BPT experience.
+<details>
+<summary><b>BPT Android — explore the planned experience</b></summary>
 
 | Planned focus | Direction |
 | :--- | :--- |
@@ -67,52 +70,49 @@ A mobile companion with its own Android-focused tools — designed around gaming
 
 Android features are planned; availability will depend on device support, permissions, and platform restrictions. Some advanced optimizations will require root.
 
-### Beyond one app
+</details>
 
-- **Keep expanding BPT PC:** broader capabilities and a more complete experience.
-- **Connect desktop and mobile:** build a coherent ecosystem across both platforms.
-- **Keep improving the website:** evolve the classic visual identity, Liquid Glass presentation, and performance.
-- **Create beyond BPT:** pursue new, larger, independent projects as the vision grows.
-
-This is our direction, with no release dates announced yet. Follow the community channels for progress and announcements.
+<sub>Roadmap items describe our direction. Release dates have not been announced.</sub>
 
 <br />
 
-### Learning stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-172339?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="Learning HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-172339?style=flat-square&amp;logo=css&amp;logoColor=67E8F9" alt="Learning CSS3" />
-  <img src="https://img.shields.io/badge/Java-172339?style=flat-square&amp;logo=openjdk&amp;logoColor=F5A97F" alt="Learning Java" />
-  <img src="https://img.shields.io/badge/C%23-172339?style=flat-square&amp;logo=dotnet&amp;logoColor=C4B5FD" alt="Learning C sharp" />
-  <img src="https://img.shields.io/badge/C%2B%2B-172339?style=flat-square&amp;logo=cplusplus&amp;logoColor=74B9FF" alt="Learning C plus plus" />
-  <img src="https://img.shields.io/badge/.NET-172339?style=flat-square&amp;logo=dotnet&amp;logoColor=C4B5FD" alt="Learning dot NET" />
-</p>
-
-<br />
-
-## Find me online
-
-<img src="./assets/connect.svg" alt="Find BariPlux on the website, YouTube, Telegram, Discord, Instagram, TikTok, X, Ko-fi, and email. Links below." width="100%" />
+## Stay connected
 
 <p align="center">
-  <a href="https://bariplux.com"><img src="https://img.shields.io/badge/Website-67E8F9?style=for-the-badge&amp;labelColor=0B1424" alt="Website" /></a>
-  <a href="https://www.youtube.com/@BariPlux"><img src="https://img.shields.io/badge/YouTube-FF6B6B?style=for-the-badge&amp;labelColor=0B1424" alt="YouTube" /></a>
-  <a href="https://t.me/BariPlux"><img src="https://img.shields.io/badge/Telegram-69C9F5?style=for-the-badge&amp;labelColor=0B1424" alt="Telegram" /></a>
-  <a href="https://discord.com/invite/fQkyq8VR59"><img src="https://img.shields.io/badge/Discord-A5A6FF?style=for-the-badge&amp;labelColor=0B1424" alt="Discord" /></a>
-  <a href="https://www.instagram.com/BariPlux"><img src="https://img.shields.io/badge/Instagram-F9A8D4?style=for-the-badge&amp;labelColor=0B1424" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@BariPlux"><img src="https://img.shields.io/badge/TikTok-86EFAC?style=for-the-badge&amp;labelColor=0B1424" alt="TikTok" /></a>
-  <a href="https://x.com/BariPlux"><img src="https://img.shields.io/badge/X-CBD5E1?style=for-the-badge&amp;logo=x&amp;logoColor=0B1424" alt="BariPlux on X" /></a>
-  <a href="https://ko-fi.com/BariPlux"><img src="https://img.shields.io/badge/Ko--fi-FDA4AF?style=for-the-badge&amp;logo=kofi&amp;logoColor=0B1424" alt="Support BariPlux on Ko-fi" /></a>
-  <a href="mailto:Support@BariPlux.com"><img src="https://img.shields.io/badge/Email-BAE6FD?style=for-the-badge" alt="Email Support@BariPlux.com" /></a>
-  <a href="https://guns.lol/BariPlux"><img src="https://img.shields.io/badge/All_links-CBD5E1?style=for-the-badge&amp;labelColor=0B1424" alt="All links" /></a>
+  <a href="https://bariplux.com"><img src="./assets/social/website.png" width="220" alt="Website" /></a>
+  <a href="https://www.youtube.com/@BariPlux"><img src="./assets/social/youtube.png" width="220" alt="YouTube" /></a>
+  <a href="https://discord.com/invite/fQkyq8VR59"><img src="./assets/social/discord.png" width="220" alt="Discord" /></a>
+  <br />
+  <a href="https://t.me/BariPlux"><img src="./assets/social/telegram.png" width="220" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/BariPlux"><img src="./assets/social/instagram.png" width="220" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@BariPlux"><img src="./assets/social/tiktok.png" width="220" alt="TikTok" /></a>
+  <br />
+  <a href="https://x.com/BariPlux"><img src="./assets/social/x.png" width="220" alt="X" /></a>
+  <a href="https://ko-fi.com/BariPlux"><img src="./assets/social/kofi.png" width="220" alt="Ko-fi" /></a>
+  <a href="mailto:Support@BariPlux.com"><img src="./assets/social/email.png" width="220" alt="Email support" /></a>
+  <br />
 </p>
 
-<p align="center">Project updates, videos, community, and support — all in one place.<br />
-<a href="mailto:Support@BariPlux.com">Support@BariPlux.com</a> · <a href="https://ko-fi.com/BariPlux">Support the work on Ko-fi</a></p>
+<p align="center">
+  <a href="https://www.youtube.com/@BariPlux">Watch the content</a> &nbsp; · &nbsp;
+  <a href="https://discord.com/invite/fQkyq8VR59">Join the community</a> &nbsp; · &nbsp;
+  <a href="https://ko-fi.com/BariPlux">Support the next chapter</a><br />
+  <a href="mailto:Support@BariPlux.com">Support@BariPlux.com</a> &nbsp; / &nbsp;
+  <a href="https://guns.lol/BariPlux">All links</a>
+</p>
 
 <br />
 
----
+<details>
+<summary><b>What I'm learning & building with</b></summary>
 
-<p align="center"><sub>BARIPLUX / SNOW-BREAKER · BUILD WITH PURPOSE. GROW BEYOND LIMITS.</sub></p>
+HTML · CSS · Java · C# · C++ · .NET
+
+Learning through real projects, experiments, and continuous iteration.
+
+</details>
+
+<br />
+
+<p align="center"><img src="./assets/brand/plux.png" width="64" alt="Original BariPlux ice logo" /></p>
+<p align="center"><sub>BARIPLUX / SNOW-BREAKER<br />BUILDING THE NEXT CHAPTER.</sub></p>
