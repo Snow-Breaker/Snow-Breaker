@@ -1,67 +1,69 @@
-<img align="right" src="./assets/brand/plux.png" width="72" alt="BariPlux" />
+<img align="right" src="./assets/brand/plux.png" width="64" alt="BariPlux" />
 
 # BariPlux
 
-**Software creator · Windows, Android & the web**
+**Independent software creator · Windows, Android & Web**
 
-Known on GitHub as **Snow-Breaker**.
+I'm **Snow-Breaker**, the creator behind **Bari Plux Tool**. I build software for people who want more control over their gaming setup — and work across the applications, website, and services that support it.
 
-I build practical software around gaming, performance, and everyday workflows. My main project is **Bari Plux Tool (BPT)**, but my work extends across the desktop app, its growing Android counterpart, the BariPlux website, and the community around them.
+My work spans product design, desktop development, Android development, and the web. I care about how those pieces fit together: a useful feature needs a clear interface, reliable behavior, and a way for people to get help when something goes wrong.
 
-I like working across the whole product: understanding a problem, shaping the interface, building the features, and improving what happens after release. For me, the details matter — clear settings, useful diagnostics, recoverable changes, and an experience people can actually understand.
-
-[Website](https://bariplux.com) · [YouTube](https://www.youtube.com/@BariPlux) · [Contact](mailto:Support@BariPlux.com)
+**Currently focused on:** improving BPT for Windows, developing BPT Android, and connecting both experiences.
 
 ---
 
-## What I'm building
+## Selected work
 
-<img align="left" src="./assets/brand/bpt.png" width="56" alt="BPT — shared identity for PC and Android" />
+<img align="right" src="./assets/brand/bpt.png" width="56" alt="Bari Plux Tool — one identity across Windows and Android" />
 
 ### Bari Plux Tool
 
-**One product family, growing across Windows and Android.**
+A growing software family for **PUBG Mobile players and emulator users**.
 
-**BPT for Windows** brings PUBG Mobile and emulator settings, performance tools, file management, backups, and community features into one desktop application. It covers everything from graphics and control profiles to emulator utilities, with recent additions including an in-game performance overlay and Installed Files for emulators.
+**Windows · BPT 3**
 
-The work goes beyond adding features: I'm also developing the interface, localization, account experience, diagnostics, updates, and the supporting services that make the product usable day to day.
+A desktop toolkit that brings graphics and FPS settings, control profiles, performance tools, emulator utilities, file management, and backups into one application. Recent additions include an **in-game performance overlay** and **Installed Files for emulators**.
 
-**BPT for Android is in development.** The plan brings gaming tools, device and network insight, file management, backups, and shared account features to mobile. A central goal is connecting the PC and Android apps, including planned remote PC / GameLoop management. Availability will depend on device capabilities and permissions; release dates have not been announced.
+I work on the experience around those tools too: account flows, cloud backup, community chat, diagnostics, themes, updates, and localization across **27 languages**, including right-to-left interfaces.
+
+**Android · In development**
+
+An Android application with gaming tools, device and network diagnostics, file management, and shared account features. The goal is a connected PC and mobile experience, including planned remote PC / GameLoop management. Features will depend on device support and permissions; a release date has not been announced.
 
 ### BariPlux.com
 
-The website is the public home for my software, guides, videos, and community. I work on its design, interactions, product pages, and performance. The latest refresh pairs the classic BariPlux identity with Liquid Glass cards, alongside continued optimization and work on web standards.
+The home for the software, product updates, guides, videos, and community. My work covers interface design, frontend development, product and account pages, and performance improvements.
 
-**[Explore the projects →](https://bariplux.com)**
+The latest refresh brings back the classic BariPlux visual identity with **Liquid Glass cards**, alongside continued optimization and work on web standards.
 
-## How I approach the work
+[Visit BariPlux.com →](https://bariplux.com)
 
-- **Build around real workflows.** Bring related tasks together and make the next step clear.
-- **Give people control.** Make settings understandable, account for platform limitations, and prioritize backup and restore where changes need them.
-- **Care about the whole experience.** Navigation, language support, diagnostics, documentation, and updates belong alongside the main features.
-- **Keep improving after release.** Use bug reports, community feedback, tests, and hands-on checks to guide the next iteration.
+## Engineering & craft
 
-## Technologies in my projects
-
-| Area | Technologies |
+| Platform | Technologies I work with |
 | :--- | :--- |
-| Windows desktop | C# · .NET · WinUI 3 · XAML |
-| Android | Kotlin · Java · Jetpack Compose · Material 3 |
-| Web | HTML · CSS · JavaScript |
-| Supporting work | Cloud services · Git · automated tests · build and release workflows |
+| **Windows** | C# · .NET · WinUI 3 · XAML |
+| **Android** | Kotlin · Java · Jetpack Compose · Material 3 |
+| **Web** | HTML · CSS · JavaScript |
+| **Delivery** | Git · automated tests · build and release workflows |
 
-I'm learning continuously through these projects, especially how to keep a growing codebase maintainable and make desktop, mobile, and web experiences work together.
+Across these projects, I spend time on the work that makes software easier to maintain and use:
 
-## Where I'm heading
+- **Interfaces that explain themselves:** clear navigation, meaningful settings, and language support that includes RTL layouts.
+- **Changes people can recover from:** backup and restore, useful diagnostics, and clear feedback when a device or platform limits a feature.
+- **Iteration grounded in use:** community feedback and bug reports, supported by tests, documentation, and hands-on verification.
 
-My immediate focus is to keep improving BPT, develop the Android experience, and connect both platforms. Alongside that, I'm continuing to refine the website and the community experience.
+I'm continuing to deepen my skills in application architecture, Android development, and the connections between desktop, mobile, and web services.
 
-Longer term, I want to take what I'm learning into **new, larger projects beyond BPT** — products with their own purpose, built with the same attention to usefulness and detail.
+## What's ahead
 
-## Find me online
+BPT is my main focus today. The longer-term ambition is to turn the experience gained here into **new, larger projects beyond BPT** — while continuing to improve the products and community already taking shape.
 
-[YouTube](https://www.youtube.com/@BariPlux) · [Discord](https://discord.com/invite/fQkyq8VR59) · [Telegram](https://t.me/BariPlux) · [Instagram](https://www.instagram.com/BariPlux) · [TikTok](https://www.tiktok.com/@BariPlux) · [X](https://x.com/BariPlux)
+## Connect
 
-For support or a conversation about my work: **[Support@BariPlux.com](mailto:Support@BariPlux.com)**.
+**Content** &nbsp; [YouTube](https://www.youtube.com/@BariPlux) · [TikTok](https://www.tiktok.com/@BariPlux) · [Instagram](https://www.instagram.com/BariPlux)
 
-If you'd like to support future development: **[Ko-fi](https://ko-fi.com/BariPlux)**.
+**Community** &nbsp; [Discord](https://discord.com/invite/fQkyq8VR59) · [Telegram](https://t.me/BariPlux) · [X](https://x.com/BariPlux)
+
+**Contact** &nbsp; [Support@BariPlux.com](mailto:Support@BariPlux.com)<br />
+**Support the work** &nbsp; [Ko-fi](https://ko-fi.com/BariPlux)
