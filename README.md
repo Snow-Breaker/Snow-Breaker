@@ -1,63 +1,66 @@
-<img align="right" src="./assets/brand/plux.png" width="64" alt="BariPlux" />
+<img align="right" src="./assets/brand/plux.png" width="64" alt="Bari Plux" />
 
-# BariPlux
+# Snow Breaker
 
-**Independent software creator · Windows, Android & Web**
+**Independent software creator · Founder of Bari Plux**
 
-I'm **Snow-Breaker**, the creator behind **Bari Plux Tool**. I build software for people who want more control over their gaming setup — and work across the applications, website, and services that support it.
+I started **Bari Plux Tool** to solve a problem in my own gaming setup: adjusting PUBG Mobile graphics and FPS settings, and adapting GameLoop controls for an iPad-style view. It was a personal tool until the people using it began asking for more — and their support gave me a reason to keep building.
 
-My work spans product design, desktop development, Android development, and the web. I care about how those pieces fit together: a useful feature needs a clear interface, reliable behavior, and a way for people to get help when something goes wrong.
+Today, I work across Windows software, Android development, and the web under **Bari Plux**, the brand I'm growing. I enjoy taking an idea from a rough first version to a product people can use, question, and help shape.
 
-**Currently focused on:** improving BPT for Windows, developing BPT Android, and connecting both experiences.
+**Current focus:** BPT for Windows, BPT Android, and the connection between them.
 
 ---
 
-## Selected work
+## What I'm building
 
-<img align="right" src="./assets/brand/bpt.png" width="56" alt="Bari Plux Tool — one identity across Windows and Android" />
+<img align="right" src="./assets/brand/bpt.png" width="56" alt="Bari Plux Tool — shared logo for Windows and Android" />
 
-### Bari Plux Tool
+### Bari Plux Tool · Windows & Android
 
-A growing software family for **PUBG Mobile players and emulator users**.
+**Windows / BPT 3** — A desktop application for PUBG Mobile players and emulator users. Graphics and control profiles sit alongside optimization, Game Mode, file management, backups, and emulator utilities. Recent additions include an **in-game performance overlay** and **Installed Files for emulators**.
 
-**Windows · BPT 3**
+The product also includes account and community features, cloud backup, diagnostics, themes, and updates, with **27 languages** and support for right-to-left interfaces. My work spans the application, its user experience, and the services around it.
 
-A desktop toolkit that brings graphics and FPS settings, control profiles, performance tools, emulator utilities, file management, and backups into one application. Recent additions include an **in-game performance overlay** and **Installed Files for emulators**.
+**Android / In development** — A mobile application planned around gaming tools, device and network insight, file management, and shared account features. The aim is to support both PC and mobile users, with a connection between the apps and planned remote PC / GameLoop management. Features depend on device support and permissions; no release date has been announced.
 
-I work on the experience around those tools too: account flows, cloud backup, community chat, diagnostics, themes, updates, and localization across **27 languages**, including right-to-left interfaces.
+[Product overview →](https://github.com/Snow-Breaker/Bari-Plux-Tool)
 
-**Android · In development**
+### Bari Plux · Web & community
 
-An Android application with gaming tools, device and network diagnostics, file management, and shared account features. The goal is a connected PC and mobile experience, including planned remote PC / GameLoop management. Features will depend on device support and permissions; a release date has not been announced.
+I build and maintain the website that brings the software, guides, updates, videos, and community together. This includes interface design, frontend development, product and account pages, and ongoing performance work. Its latest refresh combines the classic Bari Plux identity with **Liquid Glass cards**.
 
-### BariPlux.com
+[Website →](https://bariplux.com) · [Project overview →](https://github.com/Snow-Breaker/Bari-Plux-Web)
 
-The home for the software, product updates, guides, videos, and community. My work covers interface design, frontend development, product and account pages, and performance improvements.
+## A decision that shaped the project
 
-The latest refresh brings back the classic BariPlux visual identity with **Liquid Glass cards**, alongside continued optimization and work on web standards.
+On **31 July 2026**, I shared an early version of a redesigned WPF application with the developer / VIP group. The feedback was direct: the interface wasn't the right fit for the product or its identity.
 
-[Visit BariPlux.com →](https://bariplux.com)
+Rather than keep building on that direction, I chose to rewrite the application with **WinUI 3** and revisit its foundations. It was a substantial decision after the work already invested, but it created room to improve the interface, performance, and maintainability together.
 
-## Engineering & craft
+That experience shapes how I work: listen to the people using the product, reconsider a direction when the evidence calls for it, and test the experience beyond whether the code builds.
 
-| Platform | Technologies I work with |
+## From a personal tool to a broader product
+
+| Stage | What changed |
 | :--- | :--- |
-| **Windows** | C# · .NET · WinUI 3 · XAML |
-| **Android** | Kotlin · Java · Jetpack Compose · Material 3 |
-| **Web** | HTML · CSS · JavaScript |
-| **Delivery** | Git · automated tests · build and release workflows |
+| **Personal beginnings** | Graphics / FPS settings and GameLoop keymapping for what is now Custom View. |
+| **Community-led growth** | Requests led to DNS tools, PAK backups, more languages, optimization, and simpler workflows. |
+| **Summer 2026** | Work expanded into a redesigned desktop app with Game Mode and a file manager. |
+| **After the July preview** | A rewrite from WPF to WinUI 3, rethinking both the interface and the foundations. |
+| **Next chapter** | Develop BPT Android and bring the desktop and mobile experiences together. |
 
-Across these projects, I spend time on the work that makes software easier to maintain and use:
+## Technologies in my work
 
-- **Interfaces that explain themselves:** clear navigation, meaningful settings, and language support that includes RTL layouts.
-- **Changes people can recover from:** backup and restore, useful diagnostics, and clear feedback when a device or platform limits a feature.
-- **Iteration grounded in use:** community feedback and bug reports, supported by tests, documentation, and hands-on verification.
+| Windows | Android | Web |
+| :--- | :--- | :--- |
+| C# · .NET · WinUI 3 · XAML | Kotlin · Java · Jetpack Compose | HTML · CSS · JavaScript |
 
-I'm continuing to deepen my skills in application architecture, Android development, and the connections between desktop, mobile, and web services.
+Alongside feature development, I work with **Git, automated tests, documentation, localization, and build and release workflows**. I'm continuing to deepen my skills in application architecture and the connections between desktop, mobile, and web services.
 
-## What's ahead
+## Beyond BPT
 
-BPT is my main focus today. The longer-term ambition is to turn the experience gained here into **new, larger projects beyond BPT** — while continuing to improve the products and community already taking shape.
+I want Bari Plux to grow beyond this first product. My longer-term goal is to explore other areas of software, create new products and brands, and reach more people — building things that are valuable to their users and sustainable enough to keep improving.
 
 ## Connect
 
